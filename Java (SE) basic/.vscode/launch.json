@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Arreglos",
+            "request": "launch",
+            "mainClass": "Arreglos",
+            "projectName": "Java_191cb637"
+        },
+        {
+            "type": "java",
+            "name": "Launch While",
+            "request": "launch",
+            "mainClass": "While",
+            "projectName": "Java_191cb637"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoWhile",
+            "request": "launch",
+            "mainClass": "DoWhile",
+            "projectName": "Java_191cb637"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Condiciones",
+            "request": "launch",
+            "mainClass": "Condiciones",
+            "projectName": "Java_191cb637"
+        },
+        {
+            "type": "java",
+            "name": "Launch Datos",
+            "request": "launch",
+            "mainClass": "Datos",
+            "projectName": "Java_191cb637"
+        },
+        {
+            "type": "java",
+            "name": "Launch Entrada",
+            "request": "launch",
+            "mainClass": "Entrada",
+            "projectName": "Java_191cb637"
+        },
+        {
+            "type": "java",
+            "name": "Launch Funciones",
+            "request": "launch",
+            "mainClass": "Funciones",
+            "projectName": "Java_191cb637"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hola",
+            "request": "launch",
+            "mainClass": "Hola",
+            "projectName": "Java_191cb637"
+        },
+        {
+            "type": "java",
+            "name": "Launch JoptionPane",
+            "request": "launch",
+            "mainClass": "JoptionPane",
+            "projectName": "Java_191cb637"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadorTerneario",
+            "request": "launch",
+            "mainClass": "OperadorTerneario",
+            "projectName": "Java_191cb637"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "Java_191cb637"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practica",
+            "request": "launch",
+            "mainClass": "Practica",
+            "projectName": "Java_191cb637"
+        },
+        {
+            "type": "java",
+            "name": "Launch Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "Java_191cb637"
+        }
+    ]
+}
